@@ -24,8 +24,6 @@
 <a href="mailto:ibrahistcg@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ibrahist" target="_blank">
-<img src="https://img.shields.io/badge/ibrahist-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
 
 <a href="https://www.x.com/ibrahist" target="_blank">
 <img src="https://img.shields.io/badge/ibrahist-%23E4405F.svg?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;
