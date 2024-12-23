@@ -130,7 +130,7 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ibrahist&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ibrahist&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
 <hr>
