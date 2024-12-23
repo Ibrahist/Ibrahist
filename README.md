@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Offensive Attack Simulation | Malware development **
 
-- 👨‍💻 Explore my projects at (https://linktr.ee/ibrahist)
+- 👨‍💻 Explore my projects at <a hrefd="https://linktr.ee/ibrahist">Ibrahist</a>
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js, Django, Rails**
 
