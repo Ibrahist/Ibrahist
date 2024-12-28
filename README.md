@@ -28,6 +28,11 @@
 <a href="https://www.x.com/ibrahist" target="_blank">
 <img src="https://img.shields.io/badge/ibrahist-%23E4405F.svg?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;
 
+<a href="https://www.stackoverflow.com/ibrahist" target="_blank">
+<img src="https://img.shields.io/badge/ibrahist-%23E4405F.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>&nbsp;&nbsp;
+
+
+
 <a href="https://www.linktree.com/ibrahist" target="_blank">
 <img src="https://img.shields.io/badge/ibrahist-%23E4405F.svg?style=for-the-badge&logo=linktree&logoColor=white"></a>&nbsp;&nbsp;
  
