@@ -56,7 +56,7 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
 <a href="https://www.java.com/" target="_blank">
-  <img alt="C++" src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=java%2B%2B&logoColor=white">
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
@@ -103,9 +103,6 @@
 </a>
 
 <!-- Design Tools -->
-<a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
 
 <!-- Tools and Platforms -->
 
