@@ -55,20 +55,15 @@
 <a href="https://www.cplusplus.com/" target="_blank">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
+<a href="https://www.java.com/" target="_blank">
+  <img alt="C++" src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
 
 <!-- Web Development -->
-
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</a>
 
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -96,11 +91,6 @@
 
 <a href="https://getbootstrap.com/" target="_blank">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</a>
-
-<!-- Database -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 
 <!-- Version Control and Collaboration -->
