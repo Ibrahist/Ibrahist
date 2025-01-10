@@ -59,10 +59,6 @@
   <img alt="java" src="https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=Java%2B%2B&logoColor=white">
 </a>
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</a>
-
 <!-- Web Development -->
 
 <a href="https://reactjs.org/" target="_blank">
