@@ -81,7 +81,7 @@
 </a>
 
 <!-- Version Control and Collaboration -->
-<a href="https://github.com/" target="_blank">
+<!<a href="https://github.com/" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -89,11 +89,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
-<!-- Design Tools -->
-
-<!-- Tools and Platforms -->
-
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -107,11 +102,4 @@
 <hr>
 <br>
 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ibrahist&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-
-<hr>
 <br>
