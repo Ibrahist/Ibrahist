@@ -81,7 +81,7 @@
 </a>
 
 <!-- Version Control and Collaboration -->
-<!<a href="https://github.com/" target="_blank">
+<a href="https://github.com/" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
