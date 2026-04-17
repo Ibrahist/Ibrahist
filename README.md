@@ -7,9 +7,6 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 Explore my projects at https://linktr.ee/ibrahist
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js, Django, Rails**
 
