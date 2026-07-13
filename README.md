@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js, Django, Rails**
 
-- 📫 Reach me at **ibrahistcg@gmail.com**
+- 📫 Reach me at **ibrahxbt@gmail.com**
 
 - 📄 Learn more about my experiences at (https://linktr.ee/ibrahist)
 
