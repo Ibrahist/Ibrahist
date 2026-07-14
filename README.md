@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **ibrahxbt@gmail.com**
 
-- 📄 Learn more about my experiences at (https://linktr.ee/ibrahist)
+<!-- <p>- 📄 Learn more about my experiences at (https://linktr.ee/ibrahist)</p>> -->
 
 
 ### Connect with me 🔗 :
