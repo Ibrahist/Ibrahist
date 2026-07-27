@@ -56,6 +56,11 @@
   <img alt="java" src="https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=Java%2B%2B&logoColor=white">
 </a>
 
+<a href="https://https://www.djangoproject.com/" target="_blank">
+  <img alt="java" src="https://img.shields.io/badge/django-00599C?style=for-the-badge&logo=Django%2B%2B&logoColor=white">
+</a>
+
+
 <!-- Web Development -->
 
 <a href="https://reactjs.org/" target="_blank">
@@ -91,7 +96,6 @@
 
 
 
-## Github Stats &nbsp;📊
 <br>
 <!-- <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=ibrahist&show_icons=true&theme=github_dark">
