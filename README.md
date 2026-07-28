@@ -23,7 +23,8 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing .....**
-- 🌱 I'm currently learning: **📚 Exploring Cryptography**
+- 🌱 I'm currently learning: Erlang**
+- 📚 Exploring Cryptography**
 
  **<h3 align="center">Skills</h3>**
 
