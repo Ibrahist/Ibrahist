@@ -1,3 +1,6 @@
+<img width="1700" height="360" alt="github-header-banner" src="https://github.com/user-attachments/assets/257b6d6a-6971-4524-bf41-49f3fa359248" />
+
+
 ![👋 Hi, my name is ibrahim](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ibrahist&label=Profile%20views&color=0e75b6&style=flat)
