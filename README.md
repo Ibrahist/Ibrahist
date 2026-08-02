@@ -1,16 +1,5 @@
 <img width="1700" height="360" alt="github-header-banner" src="https://github.com/user-attachments/assets/f6e0b1ca-69f2-434a-8c18-1c10c731b04e" />
 
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is ibrahim
-      </h1>
-    </summary>
-  </ul>
-</div>
-
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/ibrahist" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://bitbucket.org/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codepen.io/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
