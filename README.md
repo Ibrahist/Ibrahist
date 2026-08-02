@@ -24,7 +24,7 @@
 
 - 💼 I'm currently working on: Nothing just, chilling
 - 💻 Developing .....
-- 🌱 I'm currently learning: Erlang**
+- 🌱 I'm currently learning: Erlang
 - 📚 Exploring Cryptography
 
  **<h3 align="center">Skills</h3>**
@@ -35,8 +35,3 @@
 
 <p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a> <a href="https://buymeacoffee.com/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://www.patreon.com/IBRAHIST" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="36" style="margin-right: 4px"></a></p>?
 
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=ibrahist&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
