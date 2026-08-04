@@ -8,8 +8,6 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: Nothing just, chilling
-- 💻 Developing .....
-- 🌱 I'm currently learning: Erlang
 - 📚 Exploring Cryptography
 
   **<h3 align="center">Skills</h3>**
