@@ -3,7 +3,7 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/ibrahist" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://bitbucket.org/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codepen.io/ibrahist" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="center">🚀dEv</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
