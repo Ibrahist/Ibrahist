@@ -5,9 +5,7 @@
 
  **<h3 align="center">🚀dEv</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: Nothing just, chilling
+- 💼 I'm currently working on: Nothing, just chilling
 - 📚 Exploring Cryptography
 
   **<h3 align="center">Skills</h3>**
